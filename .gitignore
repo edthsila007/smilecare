@@ -1,0 +1,4 @@
+config/*.env
+decrypted_records/
+__pycache__/
+*.pyc
