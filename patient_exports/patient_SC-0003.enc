@@ -1,0 +1,9 @@
+{
+  "format": "SCREC1",
+  "record_id": "SC-0003",
+  "kdf": "PBKDF2-HMAC-SHA256",
+  "iterations": 180000,
+  "salt": "pVJxK84O9K2MdDUEBNycFQ==",
+  "nonce": "lKLlQ3jEhUdMTyXA",
+  "ciphertext": "RlqJpo3ukoULh8VgY9QGGfrMzBY1y58FalnHc8AiXpCoFhGoZDUiJqA2Fcp8MgMCdlZUIaNYZcuOp2L57u4e7Fmm4X46jV29WVkUY1hgES1qbu6/Hyo561hwraDJI4LBYIZZrsqlbiY26czE0G5eI6t1XIYW0IW2pX4wPc8A6UaUFgBWM78nfWBHJPfFScfqo7yRu9zNFgXbJ0JvwZ+bHcza9HETo23JPwMnj5HhlLw0V0dHYPE/donnR/Bn+FFDtf5NKnu6VXcUgJJs2KQkFs2Tk9Pi5cR65MrJSaeyGhisS9lQUsLdrFJRWezgcz3CDNprD3LIAUZ+vfr94ThRYWq0dj+uPaYBFoWk8nMCwtRvC7o/fWo6lF50I3izy53GTxPYfA=="
+}
