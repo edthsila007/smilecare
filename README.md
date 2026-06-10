@@ -3,6 +3,7 @@
 SmileCare Appointment Platform is a lightweight web-based appointment management system designed for small dental clinics that need a simple way to organize patient bookings, appointment schedules, and basic visit information.
 
 The project was created as a practical solution to reduce manual appointment tracking and make communication between clinic staff and patients more organized. Instead of relying only on phone calls, paper notes, or chat messages, SmileCare provides a central place where appointment requests can be submitted, reviewed, and managed.
+Production Portal: https://edthsila.southeast-asia-home.xyz/
 
 ## About the Project
 
